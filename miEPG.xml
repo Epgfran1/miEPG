@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/02/2026 14:00" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/02/2026 14:43" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1  UHD 4k">
     <display-name>La 1  UHD 4k</display-name>
 		<icon src="https://media.tvup.cloud/canales/la1.png" />
@@ -212,16 +212,13 @@
 	</programme>
 	<programme start="20260208205500 +0100" stop="20260208211500 +0100" channel="La 1  UHD 4k">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>2017 | TP | ★3.8/10
+    <desc>2017 | ★3.8/10
 (Información,Informativo) Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114180" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>3.8/10</value>
 		</star-rating>
@@ -240,13 +237,13 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="La 1  UHD 4k">
     <title>8F Aragón decide T2026</title>
-    <desc>Resultados | 2026 | ★6.2/10
+    <desc>Resultados | 2026 | ★5.8/10
 (Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239383" />
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208222500 +0100" stop="20260209004000 +0100" channel="La 1  UHD 4k">
@@ -301,13 +298,16 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="La 1  UHD 4k">
     <title>Telediario Matinal</title>
-    <desc>2023 | ★6.2/10
+    <desc>2023 | TP | ★6.2/10
 (Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -341,13 +341,16 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="La 1  UHD 4k">
     <title>Telediario 1</title>
-    <desc>2014 | ★6.2/10
+    <desc>2014 | TP | ★6.2/10
 (Información,Informativo) El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -366,15 +369,12 @@
 	</programme>
 	<programme start="20260209154000 +0100" stop="20260209154500 +0100" channel="La 1  UHD 4k">
     <title>El tiempo</title>
-    <desc>2014 | TP | ★6.4/10
+    <desc>2014 | ★6.4/10
 (Información,Meteorología) Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Meteorología</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
 		</star-rating>
@@ -391,7 +391,7 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="La 1  UHD 4k">
     <title>Directo al grano T2 E26</title>
-    <desc>2026 | ⑯
+    <desc>2026 | ⑯ | ★6.0/10
 (Entretenimiento,Magacín) Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -400,10 +400,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="La 1  UHD 4k">
     <title>Valle Salvaje T3 E110</title>
-    <desc>2026 | ⑫
+    <desc>2026 | ⑫ | ★6.0/10
 (Series,Telenovela) Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -413,10 +416,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="La 1  UHD 4k">
     <title>La Promesa T1 E771</title>
-    <desc>2026 | ⑫
+    <desc>2026 | ⑫ | ★6.0/10
 (Series,Drama) En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -427,10 +433,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="La 1  UHD 4k">
     <title>Malas lenguas T2 E101</title>
-    <desc>2026 | ⑯ | ★6.0/10
+    <desc>2026 | ⑯ | ★6.4/10
 (Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -440,7 +449,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="La 1  UHD 4k">
@@ -460,13 +469,16 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="La 1  UHD 4k">
     <title>Telediario 2</title>
-    <desc>2021 | ★6.2/10
+    <desc>2021 | TP | ★6.2/10
 (Información,Informativo) Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -485,7 +497,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="La 1  UHD 4k">
     <title>La revuelta T2 E75</title>
-    <desc>2026 | ⑫
+    <desc>2026 | ⑫ | ★6.0/10
 (Entretenimiento,Entrevista) Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -495,6 +507,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210015000 +0100" channel="La 1  UHD 4k">
     <title>DecoMasters T1 E3</title>
@@ -1944,7 +1959,7 @@
 	</programme>
 	<programme start="20260208103000 +0100" stop="20260208113000 +0100" channel="La 2  Full HD ">
     <title>El día del señor T2026</title>
-    <desc>Parroquia de San Camilo de Lelis, Madrid | 2026 | TP | ★6.0/10
+    <desc>Parroquia de San Camilo de Lelis, Madrid | 2026 | TP | ★6.6/10
 (Cultural/Educativo,Religión) Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
@@ -1955,7 +1970,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208113000 +0100" stop="20260208120000 +0100" channel="La 2  Full HD ">
@@ -1976,7 +1991,7 @@
 	</programme>
 	<programme start="20260208120000 +0100" stop="20260208123000 +0100" channel="La 2  Full HD ">
     <title>Un país en bicicleta. Diario de una ciclista</title>
-    <desc>Camino Real de Guadalupe | 2026 | TP | ★6.0/10
+    <desc>Camino Real de Guadalupe | 2026 | TP | ★6.2/10
 (Documentales,Viajes) Ainara Hernando inicia una ruta en bicicleta desde Madrid a Guadalupe siguiendo el 'Camino Real'. Comienza en la Parroquia de San Jerónimo el Real, recorre lugares emblemáticos de Madrid y se dirige a Móstoles.
 · País: España
 · Presenta: Ainara Hernando.</desc>
@@ -1986,7 +2001,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208123000 +0100" stop="20260208125500 +0100" channel="La 2  Full HD ">
@@ -2096,30 +2111,18 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260208161500 +0100" stop="20260208170000 +0100" channel="La 2  Full HD ">
-    <title>Italia. El último territorio salvaje</title>
-    <desc>El bosque de los osos pardos | 2023 | TP
-(Documentales,Naturaleza) Recorrido por los paisajes únicos de Italia para capturar cómo los lobos, osos, halcones y águilas en peligro de extinción cazan y crían a sus crías.
-· Dirección: Francesco Petretti.</desc>
-    <category>Documentales, Naturaleza</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3284729" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260208170000 +0100" stop="20260208175000 +0100" channel="La 2  Full HD ">
-    <title>Las historias del bosque mediterráneo</title>
-    <desc>El acorazado del bosque | 2017 | TP | ★6.2/10
-(Documentales,Naturaleza) La cuenca del Mediterráneo es una de las regiones más ricas del planeta.
-· País: España
-· Dirección: Jose Antonio Vallejo.</desc>
-    <category>Documentales, Naturaleza</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1526092" />
+	<programme start="20260208161500 +0100" stop="20260208175000 +0100" channel="La 2  Full HD ">
+    <title>DIRECTO Jornada 23: Sevilla - Girona T25/26</title>
+    <desc>LALIGA EA SPORTS | 2026 | TP | ★6.4/10
+(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4455676" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208175000 +0100" stop="20260208182000 +0100" channel="La 2  Full HD ">
@@ -2215,7 +2218,7 @@
 	</programme>
 	<programme start="20260208221000 +0100" stop="20260208230000 +0100" channel="La 2  Full HD ">
     <title>Al cielo con ella T2</title>
-    <desc>Paula Vázquez y Amparo Llanos | 2026 | ⑯
+    <desc>Paula Vázquez y Amparo Llanos | 2026 | ⑯ | ★2.0/10
 (Entretenimiento,Late Night) El programa recibe en su plató a la presentadora Paula Vázquez y a la guitarrista, cantante y compositora, Amparo Llanos. Henar Álvarez dedica su monólogo a las rupturas.
 · País: España
 · Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
@@ -2224,6 +2227,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260208230000 +0100" stop="20260209013500 +0100" channel="La 2  Full HD ">
     <title>Un amor</title>
@@ -2294,7 +2300,7 @@
 	</programme>
 	<programme start="20260209041000 +0100" stop="20260209050000 +0100" channel="La 2  Full HD ">
     <title>Pablo Picasso y Françoise Gilot, ''la mujer que dice no''</title>
-    <desc>2021 | TP | ★6.0/10
+    <desc>2021 | TP | ★6.4/10
 (Documentales,Arte y cultura) Françoise Gilot fue la única que se atrevió a dejar al genial artista.
 · País: Francia
 · Dirección: Annie Maïllis, Sylvie Blum.</desc>
@@ -2304,7 +2310,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209050000 +0100" stop="20260209052500 +0100" channel="La 2  Full HD ">
@@ -2393,7 +2399,7 @@
 	</programme>
 	<programme start="20260209072000 +0100" stop="20260209081000 +0100" channel="La 2  Full HD ">
     <title>Hundidos: RMS Solway</title>
-    <desc>2018 | TP | ★6.4/10
+    <desc>2018 | TP | ★6.2/10
 (Documentales,Ciencia tecnología) El equipo de buzos, con Carlos a la cabeza, sale en busca del Solway, un vapor inglés construido en 1841, hundido a 20 metros de profundidad en los Bajos de Baldaio, en A Coruña.
 · País: España
 · Productora: Karlos Simón.</desc>
@@ -2403,7 +2409,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209081000 +0100" stop="20260209090000 +0100" channel="La 2  Full HD ">
@@ -2597,7 +2603,7 @@
 	</programme>
 	<programme start="20260209174500 +0100" stop="20260209193500 +0100" channel="La 2  Full HD ">
     <title>Malas lenguas T2 E101</title>
-    <desc>2026 | ⑯ | ★6.0/10
+    <desc>2026 | ⑯ | ★6.4/10
 (Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -2607,12 +2613,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209202500 +0100" channel="La 2  Full HD ">
     <title>En busca de secretos: París</title>
-    <desc>2023 | ⑦ | ★6.6/10
+    <desc>2023 | ⑦ | ★6.4/10
 (Documentales,Historia) Cada gran metrópolis tiene sus secretos, algunos escondidos en los anales de la historia y otros ocultos a plena vista.
 · País: Reino Unido</desc>
     <category>Documentales, Historia</category>
@@ -2621,7 +2627,7 @@
 			<value>7</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209202500 +0100" stop="20260209211000 +0100" channel="La 2  Full HD ">
@@ -5407,14 +5413,11 @@
 	</programme>
 	<programme start="20260209031500 +0100" stop="20260209041500 +0100" channel="https://media.tvup.cloud/canales/antena3.png">
     <title>Galería del coleccionista</title>
-    <desc>2021 | TP | ★6.0/10
+    <desc>2021 | ★6.0/10
 (Ocio y Aficiones,Televenta) Espacio comercial.
 · País: España</desc>
     <category>Ocio y Aficiones, Televenta</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1254041" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
@@ -5545,12 +5548,15 @@
 	</programme>
 	<programme start="20260209154000 +0100" stop="20260209154500 +0100" channel="https://media.tvup.cloud/canales/antena3.png">
     <title>Tu tiempo con Roberto Brasero</title>
-    <desc>★6.0/10
+    <desc>TP | ★6.0/10
 (Información,Meteorología) Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.
 · País: España
 · Presenta: Roberto Brasero.</desc>
     <category>Información, Meteorología</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P997438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
@@ -5589,7 +5595,7 @@
 	</programme>
 	<programme start="20260209200000 +0100" stop="20260209210000 +0100" channel="https://media.tvup.cloud/canales/antena3.png">
     <title>Pasapalabra T5 E1458</title>
-    <desc>2026 | TP | ★6.6/10
+    <desc>2026 | TP | ★6.4/10
 (Entretenimiento,Concurso) Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
 · País: España
 · Presenta: Roberto Leal.
@@ -5600,7 +5606,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209210000 +0100" stop="20260209213000 +0100" channel="https://media.tvup.cloud/canales/antena3.png">
